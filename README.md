@@ -1,6 +1,10 @@
 # MinimalMTGLifeCounter
 
-**Privacy Policy**
+A simple Kotlin project I made for a friend with a low storage Android Device.
+
+Check it out on the Play Store here! - https://play.google.com/store/apps/details?id=com.mikec.minimalmtglifecounter
+
+# Privacy Policy
 
 Mike C built the Minimal MTG Life Countter app as a Free app. This SERVICE is provided by Mike C at no cost and is intended for use as is.
 
